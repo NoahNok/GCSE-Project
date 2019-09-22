@@ -1,2 +1,2 @@
-# Py3.7
-Nah mate
+# GCSE Programming Project
+Not my best work, but shows off where I started 
